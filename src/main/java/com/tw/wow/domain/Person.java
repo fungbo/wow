@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Builder
-public class Person {
+class Person {
 
     private String name;
     private int age;
